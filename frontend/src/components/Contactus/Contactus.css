@@ -1,0 +1,58 @@
+.context {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.context h1 {
+    color: green;
+    font-size: 50px;
+    font-weight: bold;
+}
+ 
+.contact {
+    padding: 50px 50px 50px 50px;
+}
+
+.con2 {
+    background-color: green;
+    color: aliceblue;
+    position: relative;
+    right: 100px;
+    padding: 20px;
+    /* width: 200px; */
+}
+
+.con2 h3 {
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.con1 {
+    display: flex;
+    width: 900px;
+    padding: 50px;
+    margin-left: 150px;
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 600px;
+
+}
+
+.con3 {
+    width: 300px;
+    padding: 30px;
+}
+
+.con4 {
+    margin-top: 40px;
+}
+
+.con4 input {
+    width: 400px;
+}
+
+.con4 button {
+    width: 450px;
+    padding: 9px;
+    background-color: green;
+    color: white;
+    border: none;
+}

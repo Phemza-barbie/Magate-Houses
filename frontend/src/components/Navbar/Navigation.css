@@ -1,0 +1,14 @@
+#navbar{
+    background-color: rgb(104, 165, 42);
+
+}
+#me-auto:hover{
+    color: #50A448;
+    font-size: 1.2rem;
+    transition-duration: 200ms;
+}
+
+#nav:hover {
+    color: #50A448;
+    background-color: aliceblue;
+}
