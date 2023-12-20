@@ -15,7 +15,7 @@ const Navigation = () => {
           <Nav className="me-auto">
             <Nav.Link id='nav' href="/">Home</Nav.Link>
             <Nav.Link id='nav'  href="/contactUs">Contact Us</Nav.Link>
-            <Nav.Link id='nav' href="#link">Ourhomes</Nav.Link>
+            <Nav.Link id='nav' href="/ourHomes">Ourhomes</Nav.Link>
             <NavDropdown id='nav' title="About us" >
               <NavDropdown.Item href="#action/3.1">Career</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
