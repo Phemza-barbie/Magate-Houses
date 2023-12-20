@@ -17,13 +17,13 @@ const Navigation = () => {
             <Nav.Link id='nav'  href="/contactUs">Contact Us</Nav.Link>
             <Nav.Link id='nav' href="/ourHomes">Ourhomes</Nav.Link>
             <NavDropdown id='nav' title="About us" >
-              <NavDropdown.Item href="#action/3.1">Career</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
+              <NavDropdown.Item href="/Career">Career</NavDropdown.Item>
+              <NavDropdown.Item href="/Location">
                 Locations
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Our Company</NavDropdown.Item>
+              <NavDropdown.Item href="/Our company">Our Company</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">
+              <NavDropdown.Item href="#">
                 Separated link
               </NavDropdown.Item>
             </NavDropdown>
